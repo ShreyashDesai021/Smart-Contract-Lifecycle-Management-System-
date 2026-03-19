@@ -1,0 +1,5 @@
+D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.csproj.AssemblyReference.cache
+D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.AssemblyInfoInputs.cache
+D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.AssemblyInfo.cs
+D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.csproj.CoreCompileInputs.cache

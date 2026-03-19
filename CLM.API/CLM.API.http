@@ -1,0 +1,6 @@
+@CLM.API_HostAddress = http://localhost:5085
+
+GET {{CLM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

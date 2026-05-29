@@ -53,6 +53,8 @@ On startup, the app runs database migrations and seeds default users (if missing
 - `admin@clm.com` / `Admin@123`
 - `manager@clm.com` / `Manager@123`
 
+> ⚠️ Change these seeded credentials immediately in any shared or production-like environment.
+
 ## Development Notes
 - CORS is configured for `http://localhost:5173` and `http://localhost:3000`.
 - Static files are served from the API host.

@@ -55,6 +55,8 @@ On startup, the app runs database migrations and seeds default users (if missing
 - `admin@clm.com`
 - `manager@clm.com`
 
+Initial seeded passwords are defined in `/CLM.Infrastructure/Data/DataSeeder.cs` for local bootstrapping.
+
 > ⚠️ Seeded credentials are publicly known from repository source and must be treated as compromised. Rotate/replace them immediately after initial setup, and never use them in production.
 
 ## Development Notes

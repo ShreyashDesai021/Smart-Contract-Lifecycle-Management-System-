@@ -33,6 +33,8 @@ A .NET 8 Web API for managing contract creation, approval workflows, version his
 Swagger UI is available at `/swagger` when running in Development.
 
 ## Getting Started
+> ⚠️ **Security notice:** This project seeds default credentials for bootstrapping. Do **not** use seeded credentials in production, and rotate them immediately after first startup (including local/shared environments).
+
 ### Prerequisites
 - .NET SDK 8.0+
 - SQL Server
@@ -53,7 +55,7 @@ On startup, the app runs database migrations and seeds default users (if missing
 - `admin@clm.com` / `Admin@123`
 - `manager@clm.com` / `Manager@123`
 
-> ⚠️ Change these seeded credentials immediately in any shared or production-like environment.
+> ⚠️ Change these seeded passwords immediately after initial setup.
 
 ## Development Notes
 - CORS is configured for `http://localhost:5173` and `http://localhost:3000`.

@@ -52,10 +52,10 @@ dotnet run --project ./CLM.API/CLM.API.csproj
 ```
 
 On startup, the app runs database migrations and seeds default users (if missing):
-- `admin@clm.com` / `Admin@123`
-- `manager@clm.com` / `Manager@123`
+- `admin@clm.com`
+- `manager@clm.com`
 
-> ⚠️ Change these seeded passwords immediately after initial setup.
+> ⚠️ Seeded credentials are publicly known from repository source and must be treated as compromised. Rotate/replace them immediately after initial setup, and never use them in production.
 
 ## Development Notes
 - CORS is configured for `http://localhost:5173` and `http://localhost:3000`.

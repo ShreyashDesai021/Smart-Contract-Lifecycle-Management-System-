@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {}
   },
@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dshre\\.nuget\\packages\\": {}
+    "/home/runner/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj",
+      "projectUniqueName": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj",
       "projectName": "CLM.Core",
-      "projectPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj",
-      "packagesPath": "C:\\Users\\dshre\\.nuget\\packages\\",
-      "outputPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\obj\\",
+      "projectPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj",
+      "packagesPath": "/home/runner/.nuget/packages/",
+      "outputPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dshre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/runner/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -43,10 +44,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "imports": [
           "net461",
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

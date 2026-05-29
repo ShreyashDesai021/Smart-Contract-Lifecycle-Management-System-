@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Smart Contract Lifecycle Management System\\CLM.API\\CLM.API.csproj": {}
+    "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.API/CLM.API.csproj": {}
   },
   "projects": {
-    "D:\\Smart Contract Lifecycle Management System\\CLM.API\\CLM.API.csproj": {
+    "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.API/CLM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Smart Contract Lifecycle Management System\\CLM.API\\CLM.API.csproj",
+        "projectUniqueName": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.API/CLM.API.csproj",
         "projectName": "CLM.API",
-        "projectPath": "D:\\Smart Contract Lifecycle Management System\\CLM.API\\CLM.API.csproj",
-        "packagesPath": "C:\\Users\\dshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Smart Contract Lifecycle Management System\\CLM.API\\obj\\",
+        "projectPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.API/CLM.API.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dshre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -24,13 +24,14 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj": {
-                "projectPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj"
+              "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj": {
+                "projectPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj"
               },
-              "D:\\Smart Contract Lifecycle Management System\\CLM.Infrastructure\\CLM.Infrastructure.csproj": {
-                "projectPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Infrastructure\\CLM.Infrastructure.csproj"
+              "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/CLM.Infrastructure.csproj": {
+                "projectPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/CLM.Infrastructure.csproj"
               }
             }
           }
@@ -44,10 +45,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
@@ -78,21 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj": {
+    "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj",
+        "projectUniqueName": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj",
         "projectName": "CLM.Core",
-        "projectPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj",
-        "packagesPath": "C:\\Users\\dshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\obj\\",
+        "projectPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dshre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -102,6 +105,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -115,10 +119,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -136,21 +142,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Smart Contract Lifecycle Management System\\CLM.Infrastructure\\CLM.Infrastructure.csproj": {
+    "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/CLM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Smart Contract Lifecycle Management System\\CLM.Infrastructure\\CLM.Infrastructure.csproj",
+        "projectUniqueName": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/CLM.Infrastructure.csproj",
         "projectName": "CLM.Infrastructure",
-        "projectPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Infrastructure\\CLM.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\dshre\\.nuget\\packages\\",
-        "outputPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Infrastructure\\obj\\",
+        "projectPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/CLM.Infrastructure.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dshre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -160,10 +166,11 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj": {
-                "projectPath": "D:\\Smart Contract Lifecycle Management System\\CLM.Core\\CLM.Core.csproj"
+              "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj": {
+                "projectPath": "/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/CLM.Core.csproj"
               }
             }
           }
@@ -177,10 +184,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
@@ -194,6 +203,32 @@
             "MailKit": {
               "target": "Package",
               "version": "[4.15.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -208,11 +243,14 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

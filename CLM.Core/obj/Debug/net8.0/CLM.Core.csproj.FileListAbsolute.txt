@@ -1,11 +1,23 @@
-D:\Smart Contract Lifecycle Management System\CLM.Core\bin\Debug\net8.0\CLM.Core.deps.json
-D:\Smart Contract Lifecycle Management System\CLM.Core\bin\Debug\net8.0\CLM.Core.dll
-D:\Smart Contract Lifecycle Management System\CLM.Core\bin\Debug\net8.0\CLM.Core.pdb
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\CLM.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\CLM.Core.AssemblyInfoInputs.cache
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\CLM.Core.AssemblyInfo.cs
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\CLM.Core.csproj.CoreCompileInputs.cache
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\CLM.Core.dll
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\refint\CLM.Core.dll
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\CLM.Core.pdb
-D:\Smart Contract Lifecycle Management System\CLM.Core\obj\Debug\net8.0\ref\CLM.Core.dll
+D:/Smart Contract Lifecycle Management System/CLM.Core/bin/Debug/net8.0/CLM.Core.deps.json
+D:/Smart Contract Lifecycle Management System/CLM.Core/bin/Debug/net8.0/CLM.Core.dll
+D:/Smart Contract Lifecycle Management System/CLM.Core/bin/Debug/net8.0/CLM.Core.pdb
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/CLM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/CLM.Core.AssemblyInfoInputs.cache
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/CLM.Core.AssemblyInfo.cs
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/CLM.Core.csproj.CoreCompileInputs.cache
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/CLM.Core.dll
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/refint/CLM.Core.dll
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/CLM.Core.pdb
+D:/Smart Contract Lifecycle Management System/CLM.Core/obj/Debug/net8.0/ref/CLM.Core.dll
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/bin/Debug/net8.0/CLM.Core.deps.json
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/bin/Debug/net8.0/CLM.Core.dll
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/bin/Debug/net8.0/CLM.Core.pdb
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/CLM.Core.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/CLM.Core.AssemblyInfoInputs.cache
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/CLM.Core.AssemblyInfo.cs
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/CLM.Core.csproj.CoreCompileInputs.cache
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/CLM.Core.sourcelink.json
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/CLM.Core.dll
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/refint/CLM.Core.dll
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/CLM.Core.pdb
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Core/obj/Debug/net8.0/ref/CLM.Core.dll

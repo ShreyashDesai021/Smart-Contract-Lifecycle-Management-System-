@@ -1,5 +1,13 @@
-D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.csproj.AssemblyReference.cache
-D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.AssemblyInfoInputs.cache
-D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.AssemblyInfo.cs
-D:\Smart Contract Lifecycle Management System\CLM.Infrastructure\obj\Debug\net8.0\CLM.Infrastructure.csproj.CoreCompileInputs.cache
+D:/Smart Contract Lifecycle Management System/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.csproj.AssemblyReference.cache
+D:/Smart Contract Lifecycle Management System/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:/Smart Contract Lifecycle Management System/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.AssemblyInfoInputs.cache
+D:/Smart Contract Lifecycle Management System/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.AssemblyInfo.cs
+D:/Smart Contract Lifecycle Management System/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.csproj.CoreCompileInputs.cache
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.csproj.AssemblyReference.cache
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/rpswa.dswa.cache.json
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.AssemblyInfoInputs.cache
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.AssemblyInfo.cs
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.csproj.CoreCompileInputs.cache
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.MvcApplicationPartsAssemblyInfo.cache
+/tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.Infrastructure/obj/Debug/net8.0/CLM.Infrastructure.sourcelink.json

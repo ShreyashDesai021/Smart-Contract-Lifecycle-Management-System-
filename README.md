@@ -45,8 +45,8 @@ Edit `/CLM.API/appsettings.json`:
 
 ### Run
 ```bash
-dotnet restore /tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.sln
-dotnet run --project /tmp/workspace/ShreyashDesai021/Smart-Contract-Lifecycle-Management-System-/CLM.API/CLM.API.csproj
+dotnet restore ./CLM.sln
+dotnet run --project ./CLM.API/CLM.API.csproj
 ```
 
 On startup, the app runs database migrations and seeds default users (if missing):
